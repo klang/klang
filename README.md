@@ -2,7 +2,7 @@
 
 ### All the wierd stuff GitHub says I've done over the years .. 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=klang)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=klang&rank=-B,-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Activity registered in Organizations I'm currently a member of .. 
 
