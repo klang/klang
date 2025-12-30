@@ -16,6 +16,7 @@
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/2ca8d7cd-b57e-42ee-ad81-038b3f273bf9 "AWS Certified Developer – Associate")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/1ac469e5-e462-4d97-bcf1-12bf87c2a939 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/dc26477e-5554-478e-8795-34fd120d9387 "AWS Certified DevOps Engineer – Professional")
+[![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](http://www.credly.com/users/klang/badges/ "AWS Certified  AI Practitioner – Foundational")
 <!--END_SECTION:badges-->
 
 <!--
