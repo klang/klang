@@ -1,5 +1,5 @@
 ## Karsten Lang
-
+<!--
 ### All the wierd stuff GitHub says I've done over the years .. 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=klang&rank=-B,-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
@@ -7,7 +7,7 @@
 ### Activity registered in Organizations I'm currently a member of .. 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=klang&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
+-->
 ### My Certifications, the foundation of my work ..
 <!--START_SECTION:badges-->
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/86f6ca8a-7bb6-4f8a-b3ec-01f19f8b4e14 "AWS Certified Solutions Architect – Professional")
